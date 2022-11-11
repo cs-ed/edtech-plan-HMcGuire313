@@ -5,7 +5,7 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ## Context
 
-### Course
+### Introduction to Computer Science 
 
 Describe your course including the name, description, and grade level
 
