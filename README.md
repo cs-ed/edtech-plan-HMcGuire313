@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9305767&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+The Purpose of This Educational Ed Plan to provide an overview of starting a computer science designed in gaming course for a middle school setting. The goal is provide students with an opportunity to learn about computer science, hands-on stem projects and generate an interest in future computer science courses.
 
 ## Context
 
