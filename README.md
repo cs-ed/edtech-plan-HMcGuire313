@@ -43,7 +43,7 @@ Most of the software that will be needed for this course of study will be online
 
 Software as it relates to the gaming:
 
-	Installed Software:
+Installed Software:
 	
 -1 x NBA 2K23 Standard Edition (PS5)
 
