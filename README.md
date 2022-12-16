@@ -27,68 +27,68 @@ Most of the software that will be needed for this course of study will be online
  
  Web Access Programs:
  
--CS First
+- CS First
 
--Google Workspace for Education (formally G-Suite for Education)
+- Google Workspace for Education (formally G-Suite for Education)
 
--Scratch 
+- Scratch 
 
--VEXcode Blocks
+- VEXcode Blocks
 
--Code.org
+- Code.org
 
--codecombat
+- codecombat
 
--EGL (Elite Gaming Live) Academy
+- EGL (Elite Gaming Live) Academy
 
 Software as it relates to the gaming:
 
 Installed Software:
 	
--1 x NBA 2K23 Standard Edition (PS5)
+- 1 x NBA 2K23 Standard Edition (PS5)
 
--2 x Mario Kart 8 Deluxe (SWITCH)
+- 2 x Mario Kart 8 Deluxe (SWITCH)
 
--2 x Super Smash Bros Ultimate (SWITCH)
+- 2 x Super Smash Bros Ultimate (SWITCH)
 
--1 x Rocket League (XBOX-Free Download)
+- 1 x Rocket League (XBOX-Free Download)
 
 
 ### Hardware Specifications
 
 For general use in this course, students will be utilizing Chromebooks and iPads. Examples of the chromebooks and iPads used can be found below:
 
--Chromebook 11 G8 EE - Intel(R) Celeron(R) N4020 CPU @ 1.10GHz Running ChromeOS Version 99 or greater.
+- Chromebook 11 G8 EE - Intel(R) Celeron(R) N4020 CPU @ 1.10GHz Running ChromeOS Version 99 or greater.
 
--Chormebooks contain 4GB DDR4 Ram, 32 eMMC storage, Non-Touch Screen
+- Chormebooks contain 4GB DDR4 Ram, 32 eMMC storage, Non-Touch Screen
 
--iPad: 8th Generation Model MYL92LL 32 GB
+- iPad: 8th Generation Model MYL92LL 32 GB
 
 For the VEX IQ portion of this course students will interact with the pieces in VEX IQ for Education Kits. Each kit includes a Brain and rechargeable battery, 4 motors, a controller, numerous sensors, and parts for robot assembly. 
 
 For the gaming portion of this course students will use:
 
--4 x 4K 60Hz 27”-32” Monitor
+- 4 x 4K 60Hz 27”-32” Monitor
 
--1 x XBOX Series X w/ 2 controllers
+- 1 x XBOX Series X w/ 2 controllers
 
--1 x Sony Playstation 5 w/ 2 controllers
+- 1 x Sony Playstation 5 w/ 2 controllers
 
--2 x Nintendo Switch w/ 4 controllers
+- 2 x Nintendo Switch w/ 4 controllers
 
--1 x Pelican Shipping Case (for gaming gear)
+- 1 x Pelican Shipping Case (for gaming gear)
 
--1 x Surge protector
+- 1 x Surge protector
 
 For the teacher having a machine with greater processing power and the ability to download and distribute as well as produce feedback for the students is essential. We will be using the following computers. In Addition having access to a Windows Based computer is essential since students utilize the google based chromebooks 
 
--MacBook Air M1 8Gb Memory 256 SSD or newer
+- MacBook Air M1 8Gb Memory 256 SSD or newer
 
--Dell Windows Computer, Intel ® Core (™) i5-83500 CPU @ 1.70GHz 
+- Dell Windows Computer, Intel ® Core (™) i5-83500 CPU @ 1.70GHz 
 8.00 GB DDR Ram
 64 Bit operating system 
 
--Windows 10 Pro 
+- Windows 10 Pro 
 Storage 256GB  HDD
 
 ### Application
